@@ -1,6 +1,3 @@
-//test wei
-
-
 package calc;
 
 import java.util.Random;
