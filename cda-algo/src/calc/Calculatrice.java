@@ -1,3 +1,6 @@
+//test wei
+
+
 package calc;
 
 import java.util.Random;
@@ -50,7 +53,7 @@ public class Calculatrice {
 		return b;
 	}
 
-	public static long factorielle2(int a) { // récursivité
+	public static long factorielle2(int a) { // rï¿½cursivitï¿½
 		long n = 1;
 		if (a != 0) {
 			return a * factorielle2(a - 1);
