@@ -1,5 +1,3 @@
-//AddJonathan
-
 package tools;
 
 import calc.Calculatrice;

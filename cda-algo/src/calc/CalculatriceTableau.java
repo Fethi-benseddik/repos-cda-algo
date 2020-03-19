@@ -1,4 +1,3 @@
-//AddJonathan
 
 package calc;
 
